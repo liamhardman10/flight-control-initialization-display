@@ -1,6 +1,6 @@
 <img src="FCIDTitle.png" alt="FCIDTitle"/>
 
-## About
+## About the FCID
 Is there a specific need for a new MCDU or FMC program? Not really. But, I thought it would be very interesting to design and deploy my own iteration of one.
 So, that being said, this is my prototype of my Arduino-based FMC. I took the design inspiration from both Airbus & Boeing's respective 
 [MCDU](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwhat-did-i-do-wrong-with-my-mcdu-v0-qydxlcbrvacf1.png%3Fwidth%3D871%26format%3Dpng%26auto%3Dwebp%26s%3Dcd1b954b9ccdbb986bca799ad3e9197850488fb7) 
