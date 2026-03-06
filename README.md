@@ -11,4 +11,4 @@ from what I would like to see on a modern FMC. Does it differ much from the curr
 the program confusing if used in a real flight scenario.
 
 ## Circuit Diagram + Functional Model (Arduino Uno REV3)
-<img src="Circuit-DesignR3.png" alt="Circuit-DesignR3" width="407.5"/><img src="FunctionalmodelR3.jpg" alt="FunctionalmodelR3" width="600"/>
+<img src="Circuit-DesignR3.png" alt="Circuit-DesignR3" width="346"/><img src="FunctionalmodelR3.jpg" alt="FunctionalmodelR3" width="510"/>
